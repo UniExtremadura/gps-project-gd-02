@@ -1,4 +1,4 @@
-<h1 align="center"> AnimeTrack </h1>
+# AnimeTrack
 Proyecto de las asignaturas ASEE y GPS.
 
 ## Equipo
