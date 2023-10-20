@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/notificationFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_notifications_24"
+        android:title="@string/notification_option"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/userFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="@string/user_option"
+        app:showAsAction="ifRoom" />
+</menu>

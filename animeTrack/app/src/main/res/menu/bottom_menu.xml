@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/rankingFragment"
+        android:enabled="true"
+        android:icon="@drawable/trophy_svgrepo_com__2_"
+        android:title="@string/notification_option"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/searchFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_search_24"
+        android:title="@string/notification_option"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/listsFragment"
+        android:enabled="true"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="@string/user_option"
+        app:showAsAction="ifRoom" />
+
+</menu>
