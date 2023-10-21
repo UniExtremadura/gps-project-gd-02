@@ -3,7 +3,7 @@ package com.example.animetrack.data
 import com.example.animetrack.R
 import com.example.animetrack.model.Anime
 
-val dummyShows: List<Anime> = listOf(
+val dummyAnimes: List<Anime> = listOf(
     Anime(
         "One Piece",
         "Una historia épica de piratas, donde narra la historia de \"Monkey D. Luffy\" quien cuado tenia 7 años, comió accidentalmente una \"Akuma no mi\"(Futa del diablo) la cual le dio poderes de goma. Por otra parte \"Gol D. Roger\" conocido como \"El rey de los Piratas\" quien fuera ejecutado por la Marine, habló antes de morir, acerca de su famoso tesoro \"One Piece\" escondido en la \"Gran line\". Esta noticia desato la gran era de la piratas lanzando a incontables piratas a ese lugar, en busca de \"One Piece\" el tesoro perdido. Diez años después, Luffy inspirado en \"Gol D. Roger\" y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo \"Rey de los Piratas\" y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el \"One Piece\".",
@@ -11,8 +11,8 @@ val dummyShows: List<Anime> = listOf(
         "01",
         true,
        listOf<String>("Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Shounen", "Superpoderes"),
-        R.drawable.OnePiece,
-        R.drawable.OnePiece_banner
+        R.drawable.onepiece,
+        R.drawable.onepiece_banner
 
     ),
     Anime(
@@ -22,8 +22,8 @@ val dummyShows: List<Anime> = listOf(
         "01",
         true,
         listOf<String>("Acción", "Escolares", "Fantasía"),
-        R.drawable.Returner_Magic_SBE,
-        R.drawable.Returner_Magic_SBE_banner
+        R.drawable.returner_magic_sbe,
+        R.drawable.returner_magic_sbe_banner
     ),
     Anime(
         "Shingeki no Kyojin",
@@ -32,8 +32,8 @@ val dummyShows: List<Anime> = listOf(
         "04",
         true,
         listOf<String>("Acción", "Drama", "Fantasía", "Shounen", "Superpoderes"),
-        R.drawable.Shingeki_no_Kyojin,
-        R.drawable.Shingeki_no_Kyojin_banner
+        R.drawable.shingeki_no_kyojin,
+        R.drawable.shingeki_no_kyojin_banner
     ),
     Anime(
         "Boku no Hero Academia",
@@ -42,8 +42,8 @@ val dummyShows: List<Anime> = listOf(
         "06",
         true,
         listOf<String>("Acción", "Academia", "Comedia", "Shounen", "Superpoderes"),
-        R.drawable.Boku_no_Hero_Academia,
-        R.drawable.Boku_no_Hero_Academia_banner
+        R.drawable.boku_no_hero_academia,
+        R.drawable.boku_no_hero_academia_banner
     ),
     Anime(
         "Boku no Hero Academia 2nd Season",
@@ -52,8 +52,8 @@ val dummyShows: List<Anime> = listOf(
         "06",
         true,
         listOf<String>("Acción", "Academia", "Comedia", "Shounen", "Superpoderes"),
-        R.drawable.Boku_no_Hero_Academia_2nd_Season,
-        R.drawable.Boku_no_Hero_Academia_2nd_Season_banner
+        R.drawable.boku_no_hero_academia_2nd_season,
+        R.drawable.boku_no_hero_academia_2nd_season_banner
 
     ),
     Anime(
@@ -63,8 +63,8 @@ val dummyShows: List<Anime> = listOf(
         "2",
         true,
         listOf<String>("Acción", "Fantasía", "Seinen"),
-        R.drawable.Goblin_Slayer,
-        R.drawable.Goblin_Slayer_banner
+        R.drawable.goblin_slayer,
+        R.drawable.goblin_slayer_banner
     ),
     Anime(
         "Jujutsu Kaisen",
@@ -73,7 +73,7 @@ val dummyShows: List<Anime> = listOf(
         "02",
         true,
         listOf<String>("Acción", "Aventura", "Escolares", "Demonios", "Sobrenatural",  "Shounen"),
-        R.drawable.Jujutsu_Kaisen,
-        R.drawable.Jujutsu_Kaisen_banner
+        R.drawable.jujutsu_kaisen,
+        R.drawable.jujutsu_kaisen_banner
     )
 )

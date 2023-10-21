@@ -7,6 +7,6 @@ import com.example.animetrack.R
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.login_screen)
+        setContentView(R.layout.list_detail)
     }
 }
