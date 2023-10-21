@@ -10,7 +10,7 @@ val dummyAnimes: List<Anime> = listOf(
         "2018",
         "01",
         true,
-       listOf<String>("Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Shounen", "Superpoderes"),
+        listOf<String>("Acción", "Aventuras", "Comedia", "Drama", "Fantasía", "Shounen", "Superpoderes"),
         R.drawable.onepiece,
         R.drawable.onepiece_banner
 
@@ -23,7 +23,7 @@ val dummyAnimes: List<Anime> = listOf(
         true,
         listOf<String>("Acción", "Escolares", "Fantasía"),
         R.drawable.returner_magic_sbe,
-        R.drawable.returner_magic_sbe_banner
+        R.drawable.returner_magic_sbe
     ),
     Anime(
         "Shingeki no Kyojin",
